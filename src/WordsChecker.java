@@ -2,7 +2,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class WordsChecker {
-    protected String text;
     Set<String> words =new HashSet<>();
 
     public WordsChecker(String text) {
